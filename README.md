@@ -1,4 +1,4 @@
 # Blink
 
 Пример для Arduino board.
-Yuri Chernuhin
+Чернухин Юрий Михайлович
